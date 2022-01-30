@@ -1,0 +1,7 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorialofNumber\FactorialofNumber\bin\Debug\FactorialofNumber.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorialofNumber\FactorialofNumber\bin\Debug\FactorialofNumber.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorialofNumber\FactorialofNumber\bin\Debug\FactorialofNumber.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorialofNumber\FactorialofNumber\obj\Debug\FactorialofNumber.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorialofNumber\FactorialofNumber\obj\Debug\FactorialofNumber.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorialofNumber\FactorialofNumber\obj\Debug\FactorialofNumber.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorialofNumber\FactorialofNumber\obj\Debug\FactorialofNumber.pdb

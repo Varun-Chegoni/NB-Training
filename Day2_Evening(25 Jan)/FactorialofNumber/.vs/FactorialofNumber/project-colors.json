@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "286e36a7-ba4f-4334-9825-dd72f744e682": {
+      "ProjectGuid": "286e36a7-ba4f-4334-9825-dd72f744e682",
+      "DisplayName": "FactorialofNumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\Hello5XusingWhile\Hello5XusingWhile\bin\Debug\Hello5XusingWhile.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\Hello5XusingWhile\Hello5XusingWhile\bin\Debug\Hello5XusingWhile.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\Hello5XusingWhile\Hello5XusingWhile\bin\Debug\Hello5XusingWhile.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\Hello5XusingWhile\Hello5XusingWhile\obj\Debug\Hello5XusingWhile.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\Hello5XusingWhile\Hello5XusingWhile\obj\Debug\Hello5XusingWhile.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\Hello5XusingWhile\Hello5XusingWhile\obj\Debug\Hello5XusingWhile.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\Hello5XusingWhile\Hello5XusingWhile\obj\Debug\Hello5XusingWhile.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\Hello5XusingWhile\Hello5XusingWhile\obj\Debug\Hello5XusingWhile.pdb

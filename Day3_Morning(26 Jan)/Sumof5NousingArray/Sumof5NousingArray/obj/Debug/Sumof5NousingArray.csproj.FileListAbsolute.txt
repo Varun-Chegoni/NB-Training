@@ -1,0 +1,7 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\Sumof5NousingArray\Sumof5NousingArray\bin\Debug\Sumof5NousingArray.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\Sumof5NousingArray\Sumof5NousingArray\bin\Debug\Sumof5NousingArray.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\Sumof5NousingArray\Sumof5NousingArray\bin\Debug\Sumof5NousingArray.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\Sumof5NousingArray\Sumof5NousingArray\obj\Debug\Sumof5NousingArray.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\Sumof5NousingArray\Sumof5NousingArray\obj\Debug\Sumof5NousingArray.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\Sumof5NousingArray\Sumof5NousingArray\obj\Debug\Sumof5NousingArray.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\Sumof5NousingArray\Sumof5NousingArray\obj\Debug\Sumof5NousingArray.pdb

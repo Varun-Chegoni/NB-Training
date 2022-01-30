@@ -1,0 +1,7 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\multiplicationtable1\multiplicationtable1\bin\Debug\multiplicationtable1.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\multiplicationtable1\multiplicationtable1\bin\Debug\multiplicationtable1.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\multiplicationtable1\multiplicationtable1\bin\Debug\multiplicationtable1.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\multiplicationtable1\multiplicationtable1\obj\Debug\multiplicationtable1.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\multiplicationtable1\multiplicationtable1\obj\Debug\multiplicationtable1.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\multiplicationtable1\multiplicationtable1\obj\Debug\multiplicationtable1.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\multiplicationtable1\multiplicationtable1\obj\Debug\multiplicationtable1.pdb

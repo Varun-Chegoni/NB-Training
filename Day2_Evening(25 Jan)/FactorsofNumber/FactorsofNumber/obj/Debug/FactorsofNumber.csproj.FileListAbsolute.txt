@@ -1,0 +1,7 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorsofNumber\FactorsofNumber\bin\Debug\FactorsofNumber.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorsofNumber\FactorsofNumber\bin\Debug\FactorsofNumber.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorsofNumber\FactorsofNumber\bin\Debug\FactorsofNumber.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorsofNumber\FactorsofNumber\obj\Debug\FactorsofNumber.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorsofNumber\FactorsofNumber\obj\Debug\FactorsofNumber.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorsofNumber\FactorsofNumber\obj\Debug\FactorsofNumber.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\FactorsofNumber\FactorsofNumber\obj\Debug\FactorsofNumber.pdb

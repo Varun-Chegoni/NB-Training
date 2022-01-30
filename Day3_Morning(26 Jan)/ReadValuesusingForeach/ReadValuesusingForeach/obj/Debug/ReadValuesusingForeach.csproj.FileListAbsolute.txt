@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\ReadValuesusingForeach\ReadValuesusingForeach\bin\Debug\ReadValuesusingForeach.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\ReadValuesusingForeach\ReadValuesusingForeach\bin\Debug\ReadValuesusingForeach.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\ReadValuesusingForeach\ReadValuesusingForeach\bin\Debug\ReadValuesusingForeach.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\ReadValuesusingForeach\ReadValuesusingForeach\obj\Debug\ReadValuesusingForeach.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\ReadValuesusingForeach\ReadValuesusingForeach\obj\Debug\ReadValuesusingForeach.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\ReadValuesusingForeach\ReadValuesusingForeach\obj\Debug\ReadValuesusingForeach.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\ReadValuesusingForeach\ReadValuesusingForeach\obj\Debug\ReadValuesusingForeach.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\ReadValuesusingForeach\ReadValuesusingForeach\obj\Debug\ReadValuesusingForeach.pdb

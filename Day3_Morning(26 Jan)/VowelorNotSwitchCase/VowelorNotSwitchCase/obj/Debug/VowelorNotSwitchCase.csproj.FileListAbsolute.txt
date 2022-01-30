@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\VowelorNotSwitchCase\VowelorNotSwitchCase\bin\Debug\VowelorNotSwitchCase.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\VowelorNotSwitchCase\VowelorNotSwitchCase\bin\Debug\VowelorNotSwitchCase.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\VowelorNotSwitchCase\VowelorNotSwitchCase\bin\Debug\VowelorNotSwitchCase.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\VowelorNotSwitchCase\VowelorNotSwitchCase\obj\Debug\VowelorNotSwitchCase.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\VowelorNotSwitchCase\VowelorNotSwitchCase\obj\Debug\VowelorNotSwitchCase.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\VowelorNotSwitchCase\VowelorNotSwitchCase\obj\Debug\VowelorNotSwitchCase.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\VowelorNotSwitchCase\VowelorNotSwitchCase\obj\Debug\VowelorNotSwitchCase.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day3_Morning(26 Jan)\VowelorNotSwitchCase\VowelorNotSwitchCase\obj\Debug\VowelorNotSwitchCase.pdb

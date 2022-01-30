@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers\Adding2Numbers\bin\Debug\Adding2Numbers.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers\Adding2Numbers\bin\Debug\Adding2Numbers.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers\Adding2Numbers\bin\Debug\Adding2Numbers.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers\Adding2Numbers\obj\Debug\Adding2Numbers.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers\Adding2Numbers\obj\Debug\Adding2Numbers.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers\Adding2Numbers\obj\Debug\Adding2Numbers.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers\Adding2Numbers\obj\Debug\Adding2Numbers.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers\Adding2Numbers\obj\Debug\Adding2Numbers.pdb

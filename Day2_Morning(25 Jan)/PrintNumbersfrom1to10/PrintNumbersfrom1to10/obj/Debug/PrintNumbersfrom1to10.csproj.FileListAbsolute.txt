@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintNumbersfrom1to10\PrintNumbersfrom1to10\bin\Debug\PrintNumbersfrom1to10.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintNumbersfrom1to10\PrintNumbersfrom1to10\bin\Debug\PrintNumbersfrom1to10.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintNumbersfrom1to10\PrintNumbersfrom1to10\bin\Debug\PrintNumbersfrom1to10.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintNumbersfrom1to10\PrintNumbersfrom1to10\obj\Debug\PrintNumbersfrom1to10.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintNumbersfrom1to10\PrintNumbersfrom1to10\obj\Debug\PrintNumbersfrom1to10.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintNumbersfrom1to10\PrintNumbersfrom1to10\obj\Debug\PrintNumbersfrom1to10.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintNumbersfrom1to10\PrintNumbersfrom1to10\obj\Debug\PrintNumbersfrom1to10.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintNumbersfrom1to10\PrintNumbersfrom1to10\obj\Debug\PrintNumbersfrom1to10.pdb

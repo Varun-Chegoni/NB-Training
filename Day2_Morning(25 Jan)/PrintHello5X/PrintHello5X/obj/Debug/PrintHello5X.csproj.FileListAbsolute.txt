@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintHello5X\PrintHello5X\bin\Debug\PrintHello5X.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintHello5X\PrintHello5X\bin\Debug\PrintHello5X.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintHello5X\PrintHello5X\bin\Debug\PrintHello5X.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintHello5X\PrintHello5X\obj\Debug\PrintHello5X.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintHello5X\PrintHello5X\obj\Debug\PrintHello5X.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintHello5X\PrintHello5X\obj\Debug\PrintHello5X.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintHello5X\PrintHello5X\obj\Debug\PrintHello5X.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Morning(25 Jan)\PrintHello5X\PrintHello5X\obj\Debug\PrintHello5X.pdb

@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb\aPowerb\bin\Debug\aPowerb.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb\aPowerb\bin\Debug\aPowerb.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb\aPowerb\bin\Debug\aPowerb.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb\aPowerb\obj\Debug\aPowerb.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb\aPowerb\obj\Debug\aPowerb.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb\aPowerb\obj\Debug\aPowerb.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb\aPowerb\obj\Debug\aPowerb.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb\aPowerb\obj\Debug\aPowerb.pdb

@@ -1,0 +1,11 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\bin\Debug\Adding2Numbers(Desktop).exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\bin\Debug\Adding2Numbers(Desktop).exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\bin\Debug\Adding2Numbers(Desktop).pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\obj\Debug\Adding2Numbers(Desktop).csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\obj\Debug\Adding2Numbers(Desktop).csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\obj\Debug\Adding2Numbers_Desktop_.Form1.resources
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\obj\Debug\Adding2Numbers_Desktop_.Properties.Resources.resources
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\obj\Debug\Adding2Numbers(Desktop).csproj.GenerateResource.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\obj\Debug\Adding2Numbers(Desktop).csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\obj\Debug\Adding2Numbers(Desktop).exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\Adding2Numbers(Desktop)\Adding2Numbers(Desktop)\obj\Debug\Adding2Numbers(Desktop).pdb

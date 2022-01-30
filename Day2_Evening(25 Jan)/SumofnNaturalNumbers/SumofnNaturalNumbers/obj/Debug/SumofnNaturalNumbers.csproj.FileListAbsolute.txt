@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\SumofnNaturalNumbers\SumofnNaturalNumbers\bin\Debug\SumofnNaturalNumbers.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\SumofnNaturalNumbers\SumofnNaturalNumbers\bin\Debug\SumofnNaturalNumbers.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\SumofnNaturalNumbers\SumofnNaturalNumbers\bin\Debug\SumofnNaturalNumbers.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\SumofnNaturalNumbers\SumofnNaturalNumbers\obj\Debug\SumofnNaturalNumbers.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\SumofnNaturalNumbers\SumofnNaturalNumbers\obj\Debug\SumofnNaturalNumbers.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\SumofnNaturalNumbers\SumofnNaturalNumbers\obj\Debug\SumofnNaturalNumbers.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\SumofnNaturalNumbers\SumofnNaturalNumbers\obj\Debug\SumofnNaturalNumbers.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day2_Evening(25 Jan)\SumofnNaturalNumbers\SumofnNaturalNumbers\obj\Debug\SumofnNaturalNumbers.pdb

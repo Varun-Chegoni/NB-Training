@@ -1,0 +1,10 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\bin\Debug\aPowerb(Desktop).exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\bin\Debug\aPowerb(Desktop).exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\bin\Debug\aPowerb(Desktop).pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\obj\Debug\aPowerb(Desktop).csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\obj\Debug\aPowerb_Desktop_.Form1.resources
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\obj\Debug\aPowerb_Desktop_.Properties.Resources.resources
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\obj\Debug\aPowerb(Desktop).csproj.GenerateResource.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\obj\Debug\aPowerb(Desktop).csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\obj\Debug\aPowerb(Desktop).exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day1_Morning(24 Jan)\aPowerb(Desktop)\aPowerb(Desktop)\obj\Debug\aPowerb(Desktop).pdb
