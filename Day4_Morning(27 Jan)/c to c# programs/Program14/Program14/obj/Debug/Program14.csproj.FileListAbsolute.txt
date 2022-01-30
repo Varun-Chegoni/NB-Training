@@ -1,0 +1,7 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program14\Program14\bin\Debug\Program14.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program14\Program14\bin\Debug\Program14.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program14\Program14\bin\Debug\Program14.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program14\Program14\obj\Debug\Program14.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program14\Program14\obj\Debug\Program14.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program14\Program14\obj\Debug\Program14.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program14\Program14\obj\Debug\Program14.pdb

@@ -1,0 +1,15 @@
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Project3\Project3\bin\Debug\Project3.exe.config
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Project3\Project3\bin\Debug\Project3.exe
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Project3\Project3\bin\Debug\Project3.pdb
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Project3\Project3\obj\Debug\Project3.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Project3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Project3\Project3\obj\Debug\Project3.exe
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Project3\Project3\obj\Debug\Project3.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program3\Project3\bin\Debug\Project3.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program3\Project3\bin\Debug\Project3.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program3\Project3\bin\Debug\Project3.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program3\Project3\obj\Debug\Project3.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program3\Project3\obj\Debug\Project3.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program3\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program3\Project3\obj\Debug\Project3.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program3\Project3\obj\Debug\Project3.pdb

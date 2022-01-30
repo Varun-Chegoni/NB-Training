@@ -1,0 +1,16 @@
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\CProgram1\CProgram1\bin\Debug\CProgram1.exe.config
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\CProgram1\CProgram1\bin\Debug\CProgram1.exe
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\CProgram1\CProgram1\bin\Debug\CProgram1.pdb
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\CProgram1\CProgram1\obj\Debug\CProgram1.csproj.AssemblyReference.cache
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\CProgram1\CProgram1\obj\Debug\CProgram1.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\CProgram1\CProgram1\obj\Debug\CProgram1.csproj.CoreCompileInputs.cache
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\CProgram1\CProgram1\obj\Debug\CProgram1.exe
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\CProgram1\CProgram1\obj\Debug\CProgram1.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program1\CProgram1\bin\Debug\CProgram1.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program1\CProgram1\bin\Debug\CProgram1.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program1\CProgram1\bin\Debug\CProgram1.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program1\CProgram1\obj\Debug\CProgram1.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program1\CProgram1\obj\Debug\CProgram1.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program1\CProgram1\obj\Debug\CProgram1.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program1\CProgram1\obj\Debug\CProgram1.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program1\CProgram1\obj\Debug\CProgram1.pdb

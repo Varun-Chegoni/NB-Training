@@ -1,0 +1,16 @@
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Program2\Program2\bin\Debug\Program2.exe.config
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Program2\Program2\bin\Debug\Program2.exe
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Program2\Program2\bin\Debug\Program2.pdb
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Program2\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Program2\Program2\obj\Debug\Program2.csproj.SuggestedBindingRedirects.cache
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Program2\Program2\obj\Debug\Program2.exe
+D:\NHTraining\DotNET_Projects\Day4Morning27Jan\c to c# programs\Program2\Program2\obj\Debug\Program2.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program2\Program2\bin\Debug\Program2.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program2\Program2\bin\Debug\Program2.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program2\Program2\bin\Debug\Program2.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program2\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program2\Program2\obj\Debug\Program2.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program2\Program2\obj\Debug\Program2.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day4_Morning(27 Jan)\c to c# programs\Program2\Program2\obj\Debug\Program2.pdb
