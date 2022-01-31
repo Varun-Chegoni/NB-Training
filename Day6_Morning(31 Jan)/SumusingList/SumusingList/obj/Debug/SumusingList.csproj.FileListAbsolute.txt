@@ -1,0 +1,7 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\SumusingList\SumusingList\bin\Debug\SumusingList.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\SumusingList\SumusingList\bin\Debug\SumusingList.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\SumusingList\SumusingList\bin\Debug\SumusingList.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\SumusingList\SumusingList\obj\Debug\SumusingList.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\SumusingList\SumusingList\obj\Debug\SumusingList.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\SumusingList\SumusingList\obj\Debug\SumusingList.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\SumusingList\SumusingList\obj\Debug\SumusingList.pdb
