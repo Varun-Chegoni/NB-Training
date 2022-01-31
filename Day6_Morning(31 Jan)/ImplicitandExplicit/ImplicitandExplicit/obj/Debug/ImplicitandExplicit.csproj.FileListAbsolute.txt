@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\ImplicitandExplicit\ImplicitandExplicit\bin\Debug\ImplicitandExplicit.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\ImplicitandExplicit\ImplicitandExplicit\bin\Debug\ImplicitandExplicit.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\ImplicitandExplicit\ImplicitandExplicit\bin\Debug\ImplicitandExplicit.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\ImplicitandExplicit\ImplicitandExplicit\obj\Debug\ImplicitandExplicit.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\ImplicitandExplicit\ImplicitandExplicit\obj\Debug\ImplicitandExplicit.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\ImplicitandExplicit\ImplicitandExplicit\obj\Debug\ImplicitandExplicit.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\ImplicitandExplicit\ImplicitandExplicit\obj\Debug\ImplicitandExplicit.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day6_Morning(31 Jan)\ImplicitandExplicit\ImplicitandExplicit\obj\Debug\ImplicitandExplicit.pdb
