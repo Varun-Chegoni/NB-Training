@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\ClassonCusProSelDept\ClassonCusProSelDept\bin\Debug\ClassonCusProSelDept.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\ClassonCusProSelDept\ClassonCusProSelDept\bin\Debug\ClassonCusProSelDept.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\ClassonCusProSelDept\ClassonCusProSelDept\bin\Debug\ClassonCusProSelDept.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\ClassonCusProSelDept\ClassonCusProSelDept\obj\Debug\ClassonCusProSelDept.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\ClassonCusProSelDept\ClassonCusProSelDept\obj\Debug\ClassonCusProSelDept.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\ClassonCusProSelDept\ClassonCusProSelDept\obj\Debug\ClassonCusProSelDept.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\ClassonCusProSelDept\ClassonCusProSelDept\obj\Debug\ClassonCusProSelDept.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\ClassonCusProSelDept\ClassonCusProSelDept\obj\Debug\ClassonCusProSelDept.pdb

@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\EmpArrayInit5Emp\EmpArrayInit5Emp\bin\Debug\EmpArrayInit5Emp.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\EmpArrayInit5Emp\EmpArrayInit5Emp\bin\Debug\EmpArrayInit5Emp.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\EmpArrayInit5Emp\EmpArrayInit5Emp\bin\Debug\EmpArrayInit5Emp.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\EmpArrayInit5Emp\EmpArrayInit5Emp\obj\Debug\EmpArrayInit5Emp.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\EmpArrayInit5Emp\EmpArrayInit5Emp\obj\Debug\EmpArrayInit5Emp.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\EmpArrayInit5Emp\EmpArrayInit5Emp\obj\Debug\EmpArrayInit5Emp.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\EmpArrayInit5Emp\EmpArrayInit5Emp\obj\Debug\EmpArrayInit5Emp.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\EmpArrayInit5Emp\EmpArrayInit5Emp\obj\Debug\EmpArrayInit5Emp.pdb

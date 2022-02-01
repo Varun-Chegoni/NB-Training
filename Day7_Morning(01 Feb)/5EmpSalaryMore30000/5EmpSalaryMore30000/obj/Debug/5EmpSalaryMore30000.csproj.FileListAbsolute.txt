@@ -1,0 +1,7 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\5EmpSalaryMore30000\5EmpSalaryMore30000\bin\Debug\5EmpSalaryMore30000.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\5EmpSalaryMore30000\5EmpSalaryMore30000\bin\Debug\5EmpSalaryMore30000.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\5EmpSalaryMore30000\5EmpSalaryMore30000\bin\Debug\5EmpSalaryMore30000.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\5EmpSalaryMore30000\5EmpSalaryMore30000\obj\Debug\5EmpSalaryMore30000.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\5EmpSalaryMore30000\5EmpSalaryMore30000\obj\Debug\5EmpSalaryMore30000.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\5EmpSalaryMore30000\5EmpSalaryMore30000\obj\Debug\5EmpSalaryMore30000.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\5EmpSalaryMore30000\5EmpSalaryMore30000\obj\Debug\5EmpSalaryMore30000.pdb

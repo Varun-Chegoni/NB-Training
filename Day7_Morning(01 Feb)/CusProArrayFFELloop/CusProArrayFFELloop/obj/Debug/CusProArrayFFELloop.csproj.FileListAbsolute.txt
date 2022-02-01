@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\CusProArrayFFELloop\CusProArrayFFELloop\bin\Debug\CusProArrayFFELloop.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\CusProArrayFFELloop\CusProArrayFFELloop\bin\Debug\CusProArrayFFELloop.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\CusProArrayFFELloop\CusProArrayFFELloop\bin\Debug\CusProArrayFFELloop.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\CusProArrayFFELloop\CusProArrayFFELloop\obj\Debug\CusProArrayFFELloop.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\CusProArrayFFELloop\CusProArrayFFELloop\obj\Debug\CusProArrayFFELloop.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\CusProArrayFFELloop\CusProArrayFFELloop\obj\Debug\CusProArrayFFELloop.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\CusProArrayFFELloop\CusProArrayFFELloop\obj\Debug\CusProArrayFFELloop.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day7_Morning(01 Feb)\CusProArrayFFELloop\CusProArrayFFELloop\obj\Debug\CusProArrayFFELloop.pdb
