@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\DeptClassEmpCountGT50\DeptClassEmpCountGT50\bin\Debug\DeptClassEmpCountGT50.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\DeptClassEmpCountGT50\DeptClassEmpCountGT50\bin\Debug\DeptClassEmpCountGT50.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\DeptClassEmpCountGT50\DeptClassEmpCountGT50\bin\Debug\DeptClassEmpCountGT50.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\DeptClassEmpCountGT50\DeptClassEmpCountGT50\obj\Debug\DeptClassEmpCountGT50.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\DeptClassEmpCountGT50\DeptClassEmpCountGT50\obj\Debug\DeptClassEmpCountGT50.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\DeptClassEmpCountGT50\DeptClassEmpCountGT50\obj\Debug\DeptClassEmpCountGT50.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\DeptClassEmpCountGT50\DeptClassEmpCountGT50\obj\Debug\DeptClassEmpCountGT50.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\DeptClassEmpCountGT50\DeptClassEmpCountGT50\obj\Debug\DeptClassEmpCountGT50.pdb

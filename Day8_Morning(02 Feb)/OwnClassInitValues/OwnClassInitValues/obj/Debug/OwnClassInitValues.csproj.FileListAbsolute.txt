@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\OwnClassInitValues\OwnClassInitValues\bin\Debug\OwnClassInitValues.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\OwnClassInitValues\OwnClassInitValues\bin\Debug\OwnClassInitValues.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\OwnClassInitValues\OwnClassInitValues\bin\Debug\OwnClassInitValues.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\OwnClassInitValues\OwnClassInitValues\obj\Debug\OwnClassInitValues.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\OwnClassInitValues\OwnClassInitValues\obj\Debug\OwnClassInitValues.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\OwnClassInitValues\OwnClassInitValues\obj\Debug\OwnClassInitValues.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\OwnClassInitValues\OwnClassInitValues\obj\Debug\OwnClassInitValues.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\OwnClassInitValues\OwnClassInitValues\obj\Debug\OwnClassInitValues.pdb

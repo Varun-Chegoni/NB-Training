@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ada8323-682d-4256-8c3e-4053d5979f48": {
+      "ProjectGuid": "4ada8323-682d-4256-8c3e-4053d5979f48",
+      "DisplayName": "DeptClassEmpCountGT50",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

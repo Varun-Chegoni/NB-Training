@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\ProClassPriceGT500\ProClassPriceGT500\obj\Debug\ProClassPriceGT500.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\ProClassPriceGT500\ProClassPriceGT500\obj\Debug\ProClassPriceGT500.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\ProClassPriceGT500\ProClassPriceGT500\obj\Debug\ProClassPriceGT500.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\ProClassPriceGT500\ProClassPriceGT500\bin\Debug\ProClassPriceGT500.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\ProClassPriceGT500\ProClassPriceGT500\bin\Debug\ProClassPriceGT500.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\ProClassPriceGT500\ProClassPriceGT500\bin\Debug\ProClassPriceGT500.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\ProClassPriceGT500\ProClassPriceGT500\obj\Debug\ProClassPriceGT500.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day8_Morning(02 Feb)\ProClassPriceGT500\ProClassPriceGT500\obj\Debug\ProClassPriceGT500.pdb

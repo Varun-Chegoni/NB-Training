@@ -1,0 +1,1628 @@
+==============================================================================================
+Addition of two numbers
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Adding2Numbers
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Addition of Two Numbers By Varun");
+            Console.WriteLine("********************************************************************");
+            
+            // Varialbe Declaration
+            int fn, sn, sum = 0;
+
+            // User Input
+            Console.WriteLine("Enter First Number");
+            fn = Convert.ToInt32(Console.ReadLine());
+            
+            Console.WriteLine("Enter Second Number");
+            sn = Convert.ToInt32(Console.ReadLine());
+
+            // Logic
+            sum = fn + sn;
+
+            // Print Output
+            Console.WriteLine("Answer: {0}+{1}={2}",fn,sn,sum);
+            Console.ReadLine();
+        }
+    }
+}
+
+==============================================================================================
+A power B
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace aPowerb
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Power of Base and Exponent Numbers By Varun");
+            Console.WriteLine("********************************************************************");
+
+            // Varialbe Declaration
+            int b, e, p = 1;
+
+            // User Input
+            Console.WriteLine("Enter Base Number");
+            b = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter Exponent Number");
+            e = Convert.ToInt32(Console.ReadLine());
+
+            // Logic
+            /* for (int i = 1; i <= e; i++) // by for loop
+                p = p * b; */
+            p = Convert.ToInt32(Math.Pow(b, e)); // .net framework
+
+            // Print Output
+            Console.WriteLine("Power = " + p);
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Desktop Addition of two numbers
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Adding2Numbers_Desktop_
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Addition of Two Numbers (Desktop) By Varun
+            // Varialbe Declaration // User Input
+            int fn = Convert.ToInt32(textBox1.Text);
+            int sn = Convert.ToInt32(textBox2.Text);
+            
+            // Logic
+            int sum = fn + sn;
+
+            // Print Output
+            textBox3.Text = sum.ToString();
+
+        }
+    }
+}
+
+=============================================================================================
+Desktop a Power b
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace aPowerb_Desktop_
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // Print Power of Base and Exponent Numbers(Desktop) By Varun
+            // Varialbe Declaration // User Input
+            int p = 1;
+            int b = Convert.ToInt32(textBox1.Text);
+            int ex = Convert.ToInt32(textBox2.Text);
+
+            // Logic
+            for (int i = 1; i <= ex; i++)
+                p = p * b;
+
+            // Print Output
+            Console.WriteLine("Power = " + p);
+            textBox3.Text = p.ToString();
+        }
+    }
+}
+
+=============================================================================================
+Print Hello 5 Times
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PrintHello5X
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Hello 5 Times By Varun");
+            Console.WriteLine("********************************************************************");
+
+            for (int i = 1; i<=5; i++) // Logic
+                Console.WriteLine("Hello"); // Print Output
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Print number 1 to 10
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PrintNumbersfrom1to10
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Numbers from 1 to 10 By Varun");
+            Console.WriteLine("********************************************************************");
+
+            for (int i = 1; i<=10; i++) // Logic
+                Console.WriteLine(i); // Print Output
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Sum of n Natural numbers
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SumofnNaturalNumbers
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Sum of n Natural Number By Varun");
+            Console.WriteLine("********************************************************************");
+
+            // Varialbe Declaration
+            int n, sum = 0, i;
+
+            // User Input
+            Console.WriteLine("Enter any Natural Number : ");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            // Logic
+            for (i = 0; i <= n; i++)
+                sum = sum + i;
+
+            // Print Output
+            Console.WriteLine("Sum = " +sum);
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Factorial of n Natural number
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FactorialofNumber
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Factorial of a Number By Varun");
+            Console.WriteLine("********************************************************************");
+
+            // Varialbe Declaration
+            int n, p = 1, i;
+
+            // User Input
+            Console.WriteLine("Enter any Natural Number : ");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            // Logic
+            for (i = 1; i <= n; i++)
+                p = p * i;
+
+            // Print Output
+            Console.WriteLine("Factorial = " + p);
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Factors of a Number
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FactorsofNumber
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Factors of a Given Number By Varun");
+            Console.WriteLine("********************************************************************");
+
+            int n, i; // Varialbe Declaration
+
+            // User Input
+            Console.WriteLine("Enter any Number ");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            for (i = 1; i <= n; i++) // Logic
+            {
+                if (n % i == 0)
+                    Console.WriteLine(i); // Print Output
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Multiplication table by concatination 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace multiplicationtable1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Multiplication Table of a Given Number By Varun");
+            Console.WriteLine("********************************************************************");
+
+            int n, i; // Varialbe Declaration
+
+            // User Input
+            Console.WriteLine("Enter a Number");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            for (i = 1; i<= 10; i++) // Logic
+
+                // Print Output
+                Console.WriteLine(n+ "x" +i+ "=" +n*i); //string concatination
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Multiplication table by {} method
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MultiplicationTable2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Multiplication Table of a Given Number By Varun");
+            Console.WriteLine("********************************************************************");
+
+            int n, i = 1; // Varialbe Declaration
+
+            // User Input
+            Console.WriteLine("Enter any Number ");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            for (i = 1; i <= 10; i++) // Logic
+            {
+                Console.WriteLine("{0}x{1}={2}", n, i, n * i); // Print Output
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Print Hello 5 times using while loop
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Hello5XusingWhile
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Hello 5 Times using While Loop By Varun");
+            Console.WriteLine("********************************************************************");
+
+            int i = 1; // Varialbe Declaration
+
+            while (i<=5) // Logic
+            {
+                Console.WriteLine("Hello"); // Print Output
+                i++;
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Print multiplication table of any number using while loop
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MultiplicationTableusingWhile
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Multiplication Table using While Loop By Varun");
+            Console.WriteLine("********************************************************************");
+
+            int n, i = 1; // Varialbe Declaration
+
+            // User Input
+            Console.WriteLine("Enter any Number");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            while (i<=10) // Logic
+            {
+                Console.WriteLine(n+"x"+i+"="+n*i); // Print Output
+                i++;
+            }
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Quiz by Varun
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace QuizByVarun
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Varialbe Declaration
+            int score = 0, ans; 
+            string name;
+
+            Console.WriteLine("Enter your Name"); 
+            name =Console.ReadLine(); // User Input
+            Console.WriteLine("*********************************************************");
+            Console.WriteLine("Hello {0}, Welcome to the quiz by Varun", name);
+            Console.WriteLine("*********************************************************");
+
+            Console.WriteLine("Q1. Total number of oceans in the World is");
+            Console.WriteLine("1. Three     2. Five      3. Seven     4. Twelve");
+            Console.WriteLine("Enter your choice:");
+            ans = Convert.ToInt32(Console.ReadLine());
+            if (ans == 3) // Logic
+                score += 20;
+            Console.WriteLine("*********************************************************");
+            Console.WriteLine("Q2. Which is the smallest ocean in the World?");
+            Console.WriteLine("1. Indian     2. Pacific      3. Atlantic     4. Artic");
+            Console.WriteLine("Enter your choice:");
+            ans = Convert.ToInt32(Console.ReadLine());
+            if (ans == 4) // Logic
+                score += 20;
+            Console.WriteLine("*********************************************************");
+            Console.WriteLine("Q3. Which one is the biggest island in the World?");
+            Console.WriteLine("1. Borneo     2. Finland      3. Sumatra     4. Greenland");
+            Console.WriteLine("Enter your choice:");
+            ans = Convert.ToInt32(Console.ReadLine());
+            if (ans == 4) // Logic
+                score += 20;
+            Console.WriteLine("*********************************************************");
+            Console.WriteLine("Q4. Which one is the largest tropical rain forest in the world?");
+            Console.WriteLine("1. Amazon     2. Bosawas      3. Southeast Asian     4. Daintree");
+            Console.WriteLine("Enter your choice:");
+            ans = Convert.ToInt32(Console.ReadLine());
+            if (ans == 1) // Logic
+                score += 20;
+            Console.WriteLine("*********************************************************");
+            Console.WriteLine("Q5. Which country first introduce the bullet trains?");
+            Console.WriteLine("1. France     2. South Korea      3. Japan     4. USA");
+            Console.WriteLine("Enter your choice:");
+            ans = Convert.ToInt32(Console.ReadLine());
+            if (ans == 3) // Logic
+                score += 20;
+            Console.WriteLine("*********************************************************");
+            if (score >= 60) // Logic
+                Console.WriteLine("Congratulation {0}, you got {1}% in the quiz", name, score); // Print Output
+            else
+                Console.WriteLine("Sorry {0}, you got only {1}%. Try Again", name, score); // Print Output
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Enter character is Vowel or not
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace VowelorNotSwitchCase
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Entered Character is Vowel or Not using Switch Case By Varun");
+            Console.WriteLine("********************************************************************");
+
+            // User Input
+            Console.WriteLine("Enter a Character: ");
+            char input = Convert.ToChar(Console.ReadLine()); // Varialbe Declaration
+
+            // Logic
+            switch(input)
+            {
+                case 'a':
+                    Console.WriteLine("The Input Character is Vowel");
+                    break;
+                case 'e':
+                    Console.WriteLine("The Input Character is Vowel");
+                    break;
+                case 'i':
+                    Console.WriteLine("The Input Character is Vowel");
+                    break;
+                case 'o':
+                    Console.WriteLine("The Input Character is Vowel");
+                    break;
+                case 'u':
+                    Console.WriteLine("The Input Character is Vowel");
+                    break;
+                default:
+                    Console.WriteLine("The Input Character is Consonent");
+                    break ;
+            }
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Sum and Average of 5 Entered Number
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sumof5NousingArray
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Sum and Average of 5 Numbers using Array By Varun");
+            Console.WriteLine("********************************************************************");
+
+            // Varialbe Declaration
+            int sum = 0, avg = 0;
+            int[] data = new int[5];
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                Console.WriteLine("Enter any Number : "); // User Input
+                data[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            for (int i = 0; i < data.Length; i++)
+            {
+                sum = sum + data[i]; // Logic
+            }
+            avg = sum/data.Length;
+
+            // Print Output
+            Console.WriteLine("Sum = "+sum);
+            Console.WriteLine("Average = "+avg);
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Print Entered 4 Number by User using foreach Loop
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ReadValuesusingForeach
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Print Entered 4 Number by User using foreach Loop By Varun");
+            Console.WriteLine("********************************************************************");
+
+            // Varialbe Declaration
+            int sum = 0;
+            int[] data = new int[4];
+
+            for (int i = 0; i < data.Length; i++)
+            {
+                Console.WriteLine("Enter any Number : "); // User Input
+                data[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            foreach (int d in data) // Logic
+                Console.WriteLine(d); // Print Output
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Initializing an Array and Find Sum using foreach Loop
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SumusingForeach
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Initializing an Array and Find Sum using foreach Loop By Varun");
+            Console.WriteLine("********************************************************************");
+
+            int sum = 0;
+            int[] data = new int[] {2,4,6,8,10};
+
+            foreach (int d in data)
+                sum = sum + d; // Logic
+            Console.WriteLine("Sum = "+sum); // Print Output
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Program to declare ArrayList and find sum
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SumusingArrayList
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Program to declare ArrayList and find sum by Varun");
+            Console.WriteLine("********************************************************************");
+            
+            // Variable Declaration
+            int sum = 0;
+            ArrayList data = new ArrayList();
+            data.Add(10);
+            data.Add(20);
+            data.Add(30);
+            data.Add(40);
+            data.Add(50);
+
+            for (int i=0;i<data.Count;i++)
+            {
+                sum = sum + Convert.ToInt32( data[i]); // Logic           
+            }
+            Console.WriteLine(sum); // Output
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Program to declare List(generic) and find sum
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SumusingList
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Program to declare List(generic) and find sum by Varun");
+            Console.WriteLine("********************************************************************");
+            // Variable Declaration
+            int sum = 0;
+            List<int> data = new List<int>();
+            data.Add(20);
+            data.Add(40);
+            data.Add(60);
+            data.Add(80);
+            for(int i =0; i < data.Count; i++)
+            {
+                sum= sum + data[i]; // Logic
+            }
+            Console.WriteLine(sum); // Output
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Program to print name using for, foreach, lamda from List
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StringusingList
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Program to print name using for, foreach, lamda from List by Varun");
+            Console.WriteLine("********************************************************************");
+            // Variable Declaration
+            List<string> name = new List<string>();
+            name.Add("Varun");
+            name.Add("Akash");
+            name.Add("Shravan");
+            name.Add("Ram");
+            //printing name using for loop
+            for(int i = 0 ; i < name.Count; i++) // logic
+            {
+                Console.WriteLine(name[i]); // output
+            }
+            //printing name using foreach loop
+            foreach(var d in name) // logic
+            {
+                Console.WriteLine(d); // output
+            }
+            //printing name using lamda expression
+            name.ForEach(n => Console.WriteLine(n));
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Program to Print Sum of User defined values using for, foreach, lamda from List
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UserDefinedSumusingList
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Program to Print Sum of User defined values using for, foreach, lamda from List by Varun");
+            Console.WriteLine("********************************************************************");
+
+            //Variable Declaration
+            int sum = 0,sum1 = 0, sum2 = 0,temp = 0;
+            List<int> n = new List<int>();
+
+            for(int i =0; i<5;i++)
+            {
+                Console.WriteLine("Enter Any Number");
+                temp = Convert.ToInt32(Console.ReadLine());
+                n.Add(temp);
+            }
+
+            //printing sum using for loop
+            for (int i = 0; i < n.Count; i++) // logic
+            {
+                sum = sum + n[i]; // output
+            }
+
+            //printing sum using foreach loop
+            foreach (var d in n) // logic
+            {
+                sum1 = sum1 + d; // output
+            }
+
+            //printing sum using lamda expression
+            n.ForEach(d => sum2 = sum2 + d);
+            
+            // Print Output
+            Console.WriteLine("sum by for loop : "+sum);
+            Console.WriteLine("sum by foreach loop : "+sum1);
+            Console.WriteLine("sum by lamda expression: "+sum2);
+            Console.ReadLine();
+
+        }
+    }
+}
+
+=============================================================================================
+Simple Program for Implicit and Explicit
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ImplicitandExplicit
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Simple Program for Implicit and Explicit by Varun ");
+            Console.WriteLine();
+
+            // Implicit 
+            short a = 20;
+            int b = a;
+            Console.WriteLine(b);
+
+            // Explicit
+            int p = 20;
+            short q = (short) p;
+            Console.WriteLine(b);
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Create Employee class with three variables and two methods ReadEmployee and PrintEmployee and create an object and call methods
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Day7Project1
+{
+    class Employee
+    {
+        /****************************************************************************
+         * Author : Varun Sai Kumar Chegoni
+         * Purpose : Create Employee class with three variables and two methods
+   ReadEmployee and PrintEmployee and create an object and call methods.
+        *****************************************************************************/
+        
+        private int id;
+        private string name;
+        private int salary;
+
+        public void ReadEmployee()
+        {
+            Console.WriteLine("Enter Employee ID :");
+            id = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter Employee Name :");
+            name = Console.ReadLine();
+
+            Console.WriteLine("Enter Employee Salary :");
+            salary = Convert.ToInt32(Console.ReadLine());
+        }
+        public void PrintEmployee()
+        {
+            Console.WriteLine($"Employee ID = {id}, Employee Name = {name}, Employee Salary = {salary}");
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Employee class with three variables and two methods By Varun");
+            Console.WriteLine("********************************************************************");
+
+            Employee emp = new Employee();
+            emp.ReadEmployee();
+            emp.PrintEmployee();
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Class Creation of Customer, Product, Seller, Department
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ClassonCusProSelDept
+{
+   internal class Customer
+    {
+        private int cusid;
+        private string cusname;
+        private string cusemail;
+        public void ReadCustomer()
+        {
+           
+            Console.WriteLine("Enter Customer ID :");
+            cusid = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter Customer Name :");
+            cusname = Console.ReadLine();
+
+            Console.WriteLine("Enter Customer Email :");
+            cusemail = Console.ReadLine();
+        }
+        public void PrintCustomer()
+        {
+            Console.WriteLine($"Customer ID = {cusid}, Customer Name = {cusname}, Customer Email = {cusemail}");
+        }
+    }
+    internal class Product
+    {
+        private int proid;
+        private string proname;
+        private int proprice;
+        public void ReadProduct()
+        {
+            Console.WriteLine("Enter Product ID :");
+            proid = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter Product Name :");
+            proname = Console.ReadLine();
+
+            Console.WriteLine("Enter Product Price :");
+            proprice = Convert.ToInt32(Console.ReadLine());
+        }
+        public void PrintProduct()
+        {
+            Console.WriteLine($"Product ID = {proid}, Product Name = {proname}, Product Price = {proprice}");
+        }
+    }
+    internal class Seller
+    {
+        private int selid;
+        private string selname;
+        private string selemail;
+        public void ReadSeller()
+        {
+            Console.WriteLine("Enter Seller ID :");
+            selid = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter Seller Name :");
+            selname = Console.ReadLine();
+
+            Console.WriteLine("Enter Seller Email :");
+            selemail = Console.ReadLine();
+        }
+        public void PrintSeller()
+        {
+            Console.WriteLine($"Seller ID = {selid}, Seller Name = {selname}, Seller Email = {selemail}");
+        }
+    }
+    internal class Department
+    {
+        private int deptno;
+        private string deptname;
+        private string deptcat;
+        public void ReadDepartment()
+        {
+            
+            Console.WriteLine("Enter Department Number :");
+            deptno = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter Department Name :");
+            deptname = Console.ReadLine();
+
+            Console.WriteLine("Enter Department Category :");
+            deptcat = Console.ReadLine();
+        }
+        public void PrintDepartment()
+        {
+            Console.WriteLine($"Department Number = {deptno}, Department Name = {deptname}, Department Category = {deptcat}");
+        }
+    }
+    internal class Program
+    {
+        /****************************************************************************
+         * Author : Varun Sai Kumar Chegoni
+         * Purpose : Class Creation of Customer, Product, Seller, Department.
+        *****************************************************************************/
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Class Creation of Customer, Product, Seller, Department");
+            Console.WriteLine("********************************************************************");
+
+            Customer cus = new Customer();
+            cus.ReadCustomer();
+            cus.PrintCustomer();
+
+            Product pro = new Product();
+            pro.ReadProduct();
+            pro.PrintProduct();
+
+            Seller sel = new Seller();
+            sel.ReadSeller();
+            sel.PrintSeller();
+
+            Department dept = new Department();
+            dept.ReadDepartment();
+            dept.PrintDepartment();
+
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Create Employee class with 3 public var. Create Emp object and init with values while creating obj and print the value.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ClassEmpObjInitValue
+{
+    /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : Create Employee class with 3 public var. Create Emp object and init with values while creating obj and print the value.
+       *****************************************************************************/
+    public class Employee
+    {
+        public int id;
+        public string name;
+        public int salary;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Create Employee class with 3 public var. Create Emp object and init with values while creating obj and print the value by Varun");
+            Console.WriteLine("********************************************************************");
+
+            Employee emp = new Employee() { id = 123, name = "Varun", salary = 30000 };
+            Console.WriteLine($"Employee ID : {emp.id}, Employee Name : {emp.name}, Employee Salary : {emp.salary}");
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+create employees array object and initialize with 5 employees using fo ,foreach, lamda.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EmpArrayInit5Emp
+{
+    /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : create employees array object and initialize with 5 employees using fo ,foreach, lamda.
+       *****************************************************************************/
+    public class Employee
+    {
+        public int id;
+        public string name;
+        public int salary;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("create employees array object and initialize with 5 employees using fo ,foreach, lamda. by Varun");
+            Console.WriteLine("********************************************************************");
+
+            Employee[] emp = new Employee[]
+            {
+                new Employee(){id=123, name="Varun",salary=30000},
+                new Employee(){id=234, name="Ram",salary=20000},
+                new Employee(){id=345, name="Kiran",salary=40000},
+                new Employee(){id=456, name="Ravi",salary=20000},
+                new Employee(){id=567, name="Akash",salary=60000},
+            };
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for(int i=0;i<emp.Length;i++)
+            {
+                Console.WriteLine($"Employee ID = {emp[i].id}, Employee Name = {emp[i].name}, Employee Salary = {emp[i].salary}");
+            }
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var e in emp)
+            {
+                Console.WriteLine($"Employee ID = {e.id}, Employee Name = {e.name}, Employee Salary = {e.salary}");
+            }
+            Console.WriteLine("Printing Outout Using Lamda Expression");
+            // using lamda expression
+            emp.ToList().ForEach(e => Console.WriteLine($"Employee ID = {e.id}, Employee Name = {e.name}, Employee Salary = {e.salary}"));
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+print employees who is getting salary >=30000 using for loop foreach loop lambda expression 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _5EmpSalaryMore30000
+{
+    /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : print employees who is getting salary >=30000 using for loop foreach loop lambda expression.
+       *****************************************************************************/
+    public class Employee
+    {
+        public int id;
+        public string name;
+        public int salary;
+    }
+    internal class Program
+    {        
+        static void Main(string[] args)
+        {
+            Console.WriteLine("print employees who is getting salary >=30000 using for loop foreach loop lambda expression by Varun");
+            Console.WriteLine("********************************************************************");
+
+            Employee[] emp = new Employee[]
+            {
+                new Employee(){id=123, name="Varun",salary=30000},
+                new Employee(){id=234, name="Ram",salary=20000},
+                new Employee(){id=345, name="Kiran",salary=40000},
+                new Employee(){id=456, name="Ravi",salary=20000},
+                new Employee(){id=567, name="Akash",salary=60000},
+            };
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for (int i = 0; i<emp.Length; i++)
+            {
+                if(emp[i].salary >= 30000 )
+                    Console.WriteLine($"Employee ID = {emp[i].id}, Employee Name = {emp[i].name}, Employee Salary = {emp[i].salary}");
+            }
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var e in emp)
+            {
+                if(e.salary>=30000)
+                    Console.WriteLine($"Employee ID = {e.id}, Employee Name = {e.name}, Employee Salary = {e.salary}");
+            }
+            Console.WriteLine("Printing Outout Using Lamda Expression");
+            // using lamda expression
+            emp.ToList().Where(e=>e.salary>=30000).ToList().ForEach(e => Console.WriteLine($"Employee ID = {e.id}, Employee Name = {e.name}, Employee Salary = {e.salary}"));
+            Console.ReadLine();
+        }
+    }
+}
+=============================================================================================
+print customer and product , product price >=5000 using for loop foreach loop lambda expression
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CusProArrayFFELloop
+{
+    /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : print customer and product , product price >=5000 using for loop foreach loop lambda expression.
+       *****************************************************************************/
+    public class Customer
+    {
+        public int cusid;
+        public string cusname;
+        public int cusno;
+    }
+    public class Product
+    {
+        public int proid;
+        public string proname;
+        public int proprice;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("print customer and product , product price >=5000 using for loop foreach loop lambda expression by Varun");
+            Console.WriteLine("********************************************************************");
+
+            Customer[] cus = new Customer[]
+            {
+                new Customer(){cusid=123, cusname="Varun",cusno=123456},
+                new Customer(){cusid=234, cusname="Ravi",cusno=654321},
+                new Customer(){cusid=456, cusname="Kiran",cusno=123654},
+            };
+            Product[] pro = new Product[]
+            {
+                new Product(){proid=987, proname="xphone",proprice=10000},
+                new Product(){proid=876, proname="xwatch",proprice=5000},
+                new Product(){proid=765, proname="xshoes",proprice=4000},
+            };
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for (int i = 0; i<cus.Length; i++)
+            {              
+                    Console.WriteLine($"Customer ID = {cus[i].cusid}, Customer Name = {cus[i].cusname}, Customer Contact = {cus[i].cusno}");
+            }
+
+            // Customer Print*****************************************************************************************************************
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var c in cus)
+            {             
+                    Console.WriteLine($"Customer ID = {c.cusid}, Customer Name = {c.cusname}, Customer Contact = {c.cusno}");
+            }
+            Console.WriteLine("Printing Outout Using Lamda Expression");
+            // using lamda expression
+            cus.ToList().ForEach(c => Console.WriteLine($"Customer ID = {c.cusid}, Customer Name = {c.cusname}, Customer Contact = {c.cusno}"));
+            Console.ReadLine();
+
+            // Product Print***************************************************************************************************
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for (int i = 0; i<pro.Length; i++)
+            {                
+                    Console.WriteLine($"Product ID = {pro[i].proid}, Product Name = {pro[i].proname}, Product Price = {pro[i].proprice}");
+            }
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var p in pro)
+            {                
+                    Console.WriteLine($"Product ID = {p.proid}, Product Name = {p.proname}, Product Price = {p.proprice}");
+            }
+            Console.WriteLine("Printing Outout Using Lamda Expression");
+            // using lamda expression
+            pro.ToList().ForEach(p => Console.WriteLine($"Product ID = {p.proid}, Product Name = {p.proname}, Product Price = {p.proprice}"));
+            
+            // Product Print >=5000 ***************************************************************************************************
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for (int i = 0; i<pro.Length; i++)
+            {
+                if (pro[i].proprice >= 5000)
+                    Console.WriteLine($"Product ID = {pro[i].proid}, Product Name = {pro[i].proname}, Product Price = {pro[i].proprice}");
+            }
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var p in pro)
+            {
+                if (p.proprice>=5000)
+                    Console.WriteLine($"Product ID = {p.proid}, Product Name = {p.proname}, Product Price = {p.proprice}");
+            }
+            Console.WriteLine("Printing Outout Using Lamda Expression");
+            // using lamda expression
+            pro.ToList().Where(p => p.proprice>=5000).ToList().ForEach(p => Console.WriteLine($"Product ID = {p.proid}, Product Name = {p.proname}, Product Price = {p.proprice}"));
+            
+            Console.ReadLine();
+
+        }
+    }
+}
+=============================================================================================
+print even number using for, foreach loop, lambda expression, LINQ Query.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EvenNoPrintFFeLLINQ
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : print even number using for, foreach loop, lambda expression, LINQ Query.
+       *****************************************************************************/
+
+            List<int> num = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8 }; // Declaration ans Initialization 
+            //Print Using For Loop
+            Console.WriteLine("Printing using for loop");
+            for (int i = 0; i < num.Count; i++)
+            {
+                if (num[i]%2 == 0)
+                    Console.WriteLine(num[i]);
+            }
+            // Print using Foreach Loop 
+            Console.WriteLine("Printing using foreach loop");
+            foreach (int n in num)
+            {
+                if (n%2 == 0)
+                    Console.WriteLine(n);
+            }
+            // Print using lamda Expression
+            Console.WriteLine("Printing using Lamda Exp");
+            num.Where(x => x % 2 == 0).ToList().ForEach(x => Console.WriteLine(x));
+            // Print using LINQ Query
+            Console.WriteLine("Printing using LINQ Query");
+            var result = from n in num
+                         where n % 2 == 0
+                         select n;
+            result.ToList().ForEach(n => Console.Write(n));
+            Console.ReadLine();
+        }
+    }
+}
+=============================================================================================
+create employee list and print using for ,foreach, lamda, LINQ
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EmpArrayInit5Emp
+{
+    /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : create employee list and print using for ,foreach, lamda, LINQ
+       *****************************************************************************/
+    public class Employee
+    {
+        public int id;
+        public string name;
+        public int salary;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("create employee list and print using for ,foreach, lamda, LINQ by Varun");
+            Console.WriteLine("********************************************************************");
+
+            List<Employee> emp = new List<Employee>()
+            {
+                new Employee() { id=123, name="Varun", salary=30000 },
+                new Employee() { id=234, name="Ram", salary=20000 },
+                new Employee() { id=345, name="Kiran", salary=40000 },
+                new Employee() { id=456, name="Ravi", salary=20000 },
+                new Employee() { id=567, name="Akash", salary=60000 },
+            };
+            
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for (int i = 0; i<emp.Count; i++)
+            {
+                Console.WriteLine($"Employee ID = {emp[i].id}, Employee Name = {emp[i].name}, Employee Salary = {emp[i].salary}");
+            }
+            
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var e in emp)
+            {
+                Console.WriteLine($"Employee ID = {e.id}, Employee Name = {e.name}, Employee Salary = {e.salary}");
+            }
+            
+            Console.WriteLine("Printing Output Using Lamda Expression");
+            // using lamda expression
+            emp.ToList().ForEach(e => Console.WriteLine($"Employee ID = {e.id}, Employee Name = {e.name}, Employee Salary = {e.salary}"));
+            
+            Console.WriteLine("Printing Output Using LINQ Query");
+            // using LINQ Query
+            var result = from e in emp
+                         where e.id >= 1
+                         select e;            
+            result.ToList().ForEach(a => Console.WriteLine(a));
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Create a class Product and add variables id, name, price, brand print product name and brand whose price is more than 500 Using FFELLINQ.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProClassPriceGT500
+{
+    /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : Create a class Product and add variables id, name, price, brand print product name and brand whose price is more than 500 Using FFELLINQ.
+       *****************************************************************************/
+    public class Product
+    {
+        public int id;
+        public string name;
+        public int price;
+        public string brand;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Create a class Product and add variables id, name, price, brand print product name and brand whose price is more than 500 Using FFELLINQ by Varun");
+            Console.WriteLine("********************************************************************");
+
+            List<Product> pro = new List<Product>()
+            {
+                new Product(){id=987, name="xshoes",price=100, brand="xuna"},
+                new Product(){id=876, name="xphone",price=900, brand="xpple"},
+                new Product(){id=765, name="xwatch",price=600, brand="xolex"},
+                new Product(){id=654, name="xlaptop",price=1100, brand="xp"}
+            };
+            // Product Print >=500
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for (int i = 0; i<pro.Count; i++)
+            {
+                if (pro[i].price >= 500)
+                    Console.WriteLine($"Product Name = {pro[i].name}, Product brand = {pro[i].brand}");
+            }
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var p in pro)
+            {
+                if (p.price>500)
+                    Console.WriteLine($"Product Name = {p.name}, Product brand = {p.brand}");
+            }
+            Console.WriteLine("Printing Outout Using Lamda Expression");
+            // using lamda expression
+            pro.ToList().Where(p => p.price>=500).ToList().ForEach(p => Console.WriteLine($"Product Name = {p.name}, Product brand = {p.brand}"));
+            Console.WriteLine("Printing Output Using LINQ Query ");
+            // using LINQ Query
+            var result = from p in pro
+                         where p.price>=500
+                         select p;
+            result.ToList().ForEach(p => Console.WriteLine($"Product Name = {p.name}, Product brand = {p.brand}"));
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Create a Department class and add variables id,name,empcount write code to print id,name of departments whose empcount is greater than 50
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DeptClassEmpCountGT50
+{
+    /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : Create a Department class and add variables id,name,empcount write code to print id,name of departments whose empcount is greater than 50
+       *****************************************************************************/
+    public class Department
+    {
+        public int id;
+        public string name;
+        public int count;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Create a Department class and add variables id,name,empcount write code to print id,name of departments whose empcount is greater than 50 by Varun");
+            Console.WriteLine("********************************************************************");
+
+            List<Department> dept = new List<Department>()
+            {
+                new Department() { id=123, name="Analyst", count=60 },
+                new Department() { id=234, name="Developer", count=70 },
+                new Department() { id=345, name="Support", count=40 },
+                new Department() { id=456, name="Recruiter", count=20 }                
+            };
+            // Employee count > 50
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for (int i = 0; i<dept.Count; i++)
+            {
+                if (dept[i].count > 50)
+                    Console.WriteLine($"Department Name = {dept[i].name}, Department Employee Count = {dept[i].count}");
+            }
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var d in dept)
+            {
+                if (d.count>50)
+                    Console.WriteLine($"Department Name = {d.name}, Department Employee Count = {d.count}");
+            }
+            Console.WriteLine("Printing Outout Using Lamda Expression");
+            // using lamda expression
+            dept.ToList().Where(d => d.count>50).ToList().ForEach(d => Console.WriteLine($"Department Name = {d.name}, Department Employee Count = {d.count}"));
+            Console.WriteLine("Printing Output Using LINQ Query ");
+            // using LINQ Query
+            var result = from d in dept
+                         where d.count>50
+                         select d;
+            result.ToList().ForEach(d => Console.WriteLine($"Department Name = {d.name}, Department Employee Count = {d.count}"));
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+Create your own class and variables and initialize with some values for print using for ,foreach, lamda, LINQ
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OwnClassInitValues
+{
+    /****************************************************************************
+        * Author : Varun Sai Kumar Chegoni.
+        * Purpose : Create your own class and variables and initialize with some values for print using for ,foreach, lamda, LINQ
+       *****************************************************************************/
+
+    public class NHTraining
+    {
+        public string name;
+        public int id;
+        public int contact;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            List<NHTraining> nh = new List<NHTraining>()
+            {
+                new NHTraining() { name ="Arun", id = 01, contact = 123456},
+                new NHTraining() { name ="Varun", id = 02, contact = 234567},
+                new NHTraining() { name ="Vinay", id = 01, contact = 345678}
+            };
+            Console.WriteLine("Printing Output Using For Loop");
+            // using for loop
+            for (int i = 0; i<nh.Count; i++)
+            {
+                Console.WriteLine($"Student Name = {nh[i].name}, Student ID = {nh[i].id},  Student Contact = {nh[i].contact}");
+            }
+
+            Console.WriteLine("Printing Output Using Foreach Loop");
+            // using foreach loop
+            foreach (var n in nh)
+            {
+                Console.WriteLine($"Student Name = {n.name}, Student ID = {n.id},  Student Contact = {n.contact}");
+            }
+
+            Console.WriteLine("Printing Output Using Lamda Expression");
+            // using lamda expression
+            nh.ToList().ForEach(n => Console.WriteLine($"Student Name = {n.name}, Student ID = {n.id},  Student Contact = {n.contact}"));
+
+            Console.WriteLine("Printing Output Using LINQ Query");
+            // using LINQ Query
+            var result = from n in nh
+                         where n.contact > 1
+                         select n;
+            result.ToList().ForEach(n => Console.WriteLine($"Student Name = {n.name}, Student ID = {n.id},  Student Contact = {n.contact}"));
+            Console.ReadLine();
+        }
+    }
+}
+
+=============================================================================================
+=============================================================================================
+=============================================================================================
+=============================================================================================
+=============================================================================================
