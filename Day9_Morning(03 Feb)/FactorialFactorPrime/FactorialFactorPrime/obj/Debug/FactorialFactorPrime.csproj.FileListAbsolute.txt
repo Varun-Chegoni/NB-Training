@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\FactorialFactorPrime\FactorialFactorPrime\bin\Debug\FactorialFactorPrime.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\FactorialFactorPrime\FactorialFactorPrime\bin\Debug\FactorialFactorPrime.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\FactorialFactorPrime\FactorialFactorPrime\bin\Debug\FactorialFactorPrime.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\FactorialFactorPrime\FactorialFactorPrime\obj\Debug\FactorialFactorPrime.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\FactorialFactorPrime\FactorialFactorPrime\obj\Debug\FactorialFactorPrime.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\FactorialFactorPrime\FactorialFactorPrime\obj\Debug\FactorialFactorPrime.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\FactorialFactorPrime\FactorialFactorPrime\obj\Debug\FactorialFactorPrime.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\FactorialFactorPrime\FactorialFactorPrime\obj\Debug\FactorialFactorPrime.pdb

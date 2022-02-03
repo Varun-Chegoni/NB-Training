@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\MathsBasicOperations\MathsBasicOperations\bin\Debug\MathsBasicOperations.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\MathsBasicOperations\MathsBasicOperations\bin\Debug\MathsBasicOperations.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\MathsBasicOperations\MathsBasicOperations\bin\Debug\MathsBasicOperations.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\MathsBasicOperations\MathsBasicOperations\obj\Debug\MathsBasicOperations.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\MathsBasicOperations\MathsBasicOperations\obj\Debug\MathsBasicOperations.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\MathsBasicOperations\MathsBasicOperations\obj\Debug\MathsBasicOperations.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\MathsBasicOperations\MathsBasicOperations\obj\Debug\MathsBasicOperations.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\MathsBasicOperations\MathsBasicOperations\obj\Debug\MathsBasicOperations.pdb

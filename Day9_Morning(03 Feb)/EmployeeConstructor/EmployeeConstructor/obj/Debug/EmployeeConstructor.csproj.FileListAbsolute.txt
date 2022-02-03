@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmployeeConstructor\EmployeeConstructor\bin\Debug\EmployeeConstructor.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmployeeConstructor\EmployeeConstructor\bin\Debug\EmployeeConstructor.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmployeeConstructor\EmployeeConstructor\bin\Debug\EmployeeConstructor.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmployeeConstructor\EmployeeConstructor\obj\Debug\EmployeeConstructor.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmployeeConstructor\EmployeeConstructor\obj\Debug\EmployeeConstructor.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmployeeConstructor\EmployeeConstructor\obj\Debug\EmployeeConstructor.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmployeeConstructor\EmployeeConstructor\obj\Debug\EmployeeConstructor.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmployeeConstructor\EmployeeConstructor\obj\Debug\EmployeeConstructor.pdb

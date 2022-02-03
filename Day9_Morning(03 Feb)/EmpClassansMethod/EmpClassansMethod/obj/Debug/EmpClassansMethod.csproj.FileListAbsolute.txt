@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmpClassansMethod\EmpClassansMethod\bin\Debug\EmpClassansMethod.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmpClassansMethod\EmpClassansMethod\bin\Debug\EmpClassansMethod.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmpClassansMethod\EmpClassansMethod\bin\Debug\EmpClassansMethod.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmpClassansMethod\EmpClassansMethod\obj\Debug\EmpClassansMethod.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmpClassansMethod\EmpClassansMethod\obj\Debug\EmpClassansMethod.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmpClassansMethod\EmpClassansMethod\obj\Debug\EmpClassansMethod.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmpClassansMethod\EmpClassansMethod\obj\Debug\EmpClassansMethod.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day9_Morning(03 Feb)\EmpClassansMethod\EmpClassansMethod\obj\Debug\EmpClassansMethod.pdb
