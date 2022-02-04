@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Practices codes\BubbleSortusingArray\BubbleSortusingArray\bin\Debug\BubbleSortusingArray.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Practices codes\BubbleSortusingArray\BubbleSortusingArray\bin\Debug\BubbleSortusingArray.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Practices codes\BubbleSortusingArray\BubbleSortusingArray\bin\Debug\BubbleSortusingArray.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Practices codes\BubbleSortusingArray\BubbleSortusingArray\obj\Debug\BubbleSortusingArray.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Practices codes\BubbleSortusingArray\BubbleSortusingArray\obj\Debug\BubbleSortusingArray.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Practices codes\BubbleSortusingArray\BubbleSortusingArray\obj\Debug\BubbleSortusingArray.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Practices codes\BubbleSortusingArray\BubbleSortusingArray\obj\Debug\BubbleSortusingArray.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Practices codes\BubbleSortusingArray\BubbleSortusingArray\obj\Debug\BubbleSortusingArray.pdb
