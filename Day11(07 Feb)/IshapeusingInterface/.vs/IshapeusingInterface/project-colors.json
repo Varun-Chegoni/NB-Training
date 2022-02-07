@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7bebb220-a0da-44da-9cee-04df2aa6b5a6": {
+      "ProjectGuid": "7bebb220-a0da-44da-9cee-04df2aa6b5a6",
+      "DisplayName": "IshapeusingInterface",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

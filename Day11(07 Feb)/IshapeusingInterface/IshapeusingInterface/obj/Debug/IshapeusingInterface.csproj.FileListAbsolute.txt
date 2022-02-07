@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day11(07 Feb)\IshapeusingInterface\IshapeusingInterface\bin\Debug\IshapeusingInterface.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day11(07 Feb)\IshapeusingInterface\IshapeusingInterface\bin\Debug\IshapeusingInterface.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day11(07 Feb)\IshapeusingInterface\IshapeusingInterface\bin\Debug\IshapeusingInterface.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day11(07 Feb)\IshapeusingInterface\IshapeusingInterface\obj\Debug\IshapeusingInterface.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day11(07 Feb)\IshapeusingInterface\IshapeusingInterface\obj\Debug\IshapeusingInterface.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day11(07 Feb)\IshapeusingInterface\IshapeusingInterface\obj\Debug\IshapeusingInterface.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day11(07 Feb)\IshapeusingInterface\IshapeusingInterface\obj\Debug\IshapeusingInterface.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day11(07 Feb)\IshapeusingInterface\IshapeusingInterface\obj\Debug\IshapeusingInterface.pdb
