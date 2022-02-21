@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\TraceOf2DArray\TraceOf2DArray\bin\Debug\TraceOf2DArray.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\TraceOf2DArray\TraceOf2DArray\bin\Debug\TraceOf2DArray.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\TraceOf2DArray\TraceOf2DArray\bin\Debug\TraceOf2DArray.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\TraceOf2DArray\TraceOf2DArray\obj\Debug\TraceOf2DArray.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\TraceOf2DArray\TraceOf2DArray\obj\Debug\TraceOf2DArray.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\TraceOf2DArray\TraceOf2DArray\obj\Debug\TraceOf2DArray.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\TraceOf2DArray\TraceOf2DArray\obj\Debug\TraceOf2DArray.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\TraceOf2DArray\TraceOf2DArray\obj\Debug\TraceOf2DArray.pdb

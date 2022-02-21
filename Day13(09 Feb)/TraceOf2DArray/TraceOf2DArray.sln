@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceOf2DArray", "TraceOf2DArray\TraceOf2DArray.csproj", "{DC70B6EF-0938-41BF-AC21-A11541A9CFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC70B6EF-0938-41BF-AC21-A11541A9CFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC70B6EF-0938-41BF-AC21-A11541A9CFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC70B6EF-0938-41BF-AC21-A11541A9CFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC70B6EF-0938-41BF-AC21-A11541A9CFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E8E8DBB-ED60-47E9-BC7F-75BC7E9DE66F}
+	EndGlobalSection
+EndGlobal

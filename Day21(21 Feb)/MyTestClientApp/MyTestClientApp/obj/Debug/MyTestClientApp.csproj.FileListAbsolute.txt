@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day21(21 Feb)\MyTestClientApp\MyTestClientApp\bin\Debug\MyTestClientApp.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day21(21 Feb)\MyTestClientApp\MyTestClientApp\bin\Debug\MyTestClientApp.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day21(21 Feb)\MyTestClientApp\MyTestClientApp\bin\Debug\MyTestClientApp.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day21(21 Feb)\MyTestClientApp\MyTestClientApp\obj\Debug\MyTestClientApp.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day21(21 Feb)\MyTestClientApp\MyTestClientApp\obj\Debug\MyTestClientApp.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day21(21 Feb)\MyTestClientApp\MyTestClientApp\obj\Debug\MyTestClientApp.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day21(21 Feb)\MyTestClientApp\MyTestClientApp\obj\Debug\MyTestClientApp.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day21(21 Feb)\MyTestClientApp\MyTestClientApp\obj\Debug\MyTestClientApp.pdb

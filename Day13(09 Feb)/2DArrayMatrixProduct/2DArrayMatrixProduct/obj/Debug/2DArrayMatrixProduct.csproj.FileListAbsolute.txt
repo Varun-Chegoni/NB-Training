@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayMatrixProduct\2DArrayMatrixProduct\bin\Debug\2DArrayMatrixProduct.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayMatrixProduct\2DArrayMatrixProduct\bin\Debug\2DArrayMatrixProduct.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayMatrixProduct\2DArrayMatrixProduct\bin\Debug\2DArrayMatrixProduct.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayMatrixProduct\2DArrayMatrixProduct\obj\Debug\2DArrayMatrixProduct.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayMatrixProduct\2DArrayMatrixProduct\obj\Debug\2DArrayMatrixProduct.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayMatrixProduct\2DArrayMatrixProduct\obj\Debug\2DArrayMatrixProduct.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayMatrixProduct\2DArrayMatrixProduct\obj\Debug\2DArrayMatrixProduct.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayMatrixProduct\2DArrayMatrixProduct\obj\Debug\2DArrayMatrixProduct.pdb

@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayInitWhileDeclare\2DArrayInitWhileDeclare\bin\Debug\2DArrayInitWhileDeclare.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayInitWhileDeclare\2DArrayInitWhileDeclare\bin\Debug\2DArrayInitWhileDeclare.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayInitWhileDeclare\2DArrayInitWhileDeclare\bin\Debug\2DArrayInitWhileDeclare.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayInitWhileDeclare\2DArrayInitWhileDeclare\obj\Debug\2DArrayInitWhileDeclare.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayInitWhileDeclare\2DArrayInitWhileDeclare\obj\Debug\2DArrayInitWhileDeclare.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayInitWhileDeclare\2DArrayInitWhileDeclare\obj\Debug\2DArrayInitWhileDeclare.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayInitWhileDeclare\2DArrayInitWhileDeclare\obj\Debug\2DArrayInitWhileDeclare.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\2DArrayInitWhileDeclare\2DArrayInitWhileDeclare\obj\Debug\2DArrayInitWhileDeclare.pdb

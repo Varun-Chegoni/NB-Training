@@ -1,8 +1,0 @@
-D:\NB_Training\Training_Assignments\DotNET_Assignments\Day10_Morning(04 Feb)\ExCodeInheritance\ExCodeInheritance\bin\Debug\ExCodeInheritance.exe.config
-D:\NB_Training\Training_Assignments\DotNET_Assignments\Day10_Morning(04 Feb)\ExCodeInheritance\ExCodeInheritance\bin\Debug\ExCodeInheritance.exe
-D:\NB_Training\Training_Assignments\DotNET_Assignments\Day10_Morning(04 Feb)\ExCodeInheritance\ExCodeInheritance\bin\Debug\ExCodeInheritance.pdb
-D:\NB_Training\Training_Assignments\DotNET_Assignments\Day10_Morning(04 Feb)\ExCodeInheritance\ExCodeInheritance\obj\Debug\ExCodeInheritance.csproj.AssemblyReference.cache
-D:\NB_Training\Training_Assignments\DotNET_Assignments\Day10_Morning(04 Feb)\ExCodeInheritance\ExCodeInheritance\obj\Debug\ExCodeInheritance.csproj.SuggestedBindingRedirects.cache
-D:\NB_Training\Training_Assignments\DotNET_Assignments\Day10_Morning(04 Feb)\ExCodeInheritance\ExCodeInheritance\obj\Debug\ExCodeInheritance.csproj.CoreCompileInputs.cache
-D:\NB_Training\Training_Assignments\DotNET_Assignments\Day10_Morning(04 Feb)\ExCodeInheritance\ExCodeInheritance\obj\Debug\ExCodeInheritance.exe
-D:\NB_Training\Training_Assignments\DotNET_Assignments\Day10_Morning(04 Feb)\ExCodeInheritance\ExCodeInheritance\obj\Debug\ExCodeInheritance.pdb

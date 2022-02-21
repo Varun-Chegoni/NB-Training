@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\ReadValueOf2DArray\ReadValueOf2DArray\obj\Debug\ReadValueOf2DArray.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\ReadValueOf2DArray\ReadValueOf2DArray\obj\Debug\ReadValueOf2DArray.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\ReadValueOf2DArray\ReadValueOf2DArray\obj\Debug\ReadValueOf2DArray.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\ReadValueOf2DArray\ReadValueOf2DArray\bin\Debug\ReadValueOf2DArray.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\ReadValueOf2DArray\ReadValueOf2DArray\bin\Debug\ReadValueOf2DArray.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\ReadValueOf2DArray\ReadValueOf2DArray\bin\Debug\ReadValueOf2DArray.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\ReadValueOf2DArray\ReadValueOf2DArray\obj\Debug\ReadValueOf2DArray.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day13(09 Feb)\ReadValueOf2DArray\ReadValueOf2DArray\obj\Debug\ReadValueOf2DArray.pdb
