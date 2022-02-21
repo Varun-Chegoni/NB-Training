@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\TestOrCheck\Check\Check\bin\Debug\Check.exe.config
+D:\NB_Training\Training_Assignments\TestOrCheck\Check\Check\bin\Debug\Check.exe
+D:\NB_Training\Training_Assignments\TestOrCheck\Check\Check\bin\Debug\Check.pdb
+D:\NB_Training\Training_Assignments\TestOrCheck\Check\Check\obj\Debug\Check.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\TestOrCheck\Check\Check\obj\Debug\Check.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\TestOrCheck\Check\Check\obj\Debug\Check.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\TestOrCheck\Check\Check\obj\Debug\Check.exe
+D:\NB_Training\Training_Assignments\TestOrCheck\Check\Check\obj\Debug\Check.pdb
