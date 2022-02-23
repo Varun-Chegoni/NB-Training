@@ -1,0 +1,15 @@
+----------------------------------
+Day-6 Evening Assignment
+---------------------------------
+1. Using Arrays, 
+   explain bubble sort program
+
+
+2. Using Arrays,
+   explain linear search
+
+
+3. Using Arrays, 
+   explain binary search
+
+----------------------------------

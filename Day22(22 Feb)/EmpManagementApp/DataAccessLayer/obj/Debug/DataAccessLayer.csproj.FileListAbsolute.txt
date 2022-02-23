@@ -1,0 +1,6 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

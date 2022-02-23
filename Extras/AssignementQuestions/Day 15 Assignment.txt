@@ -1,0 +1,23 @@
+=========================
+Day-15:
+=========================
+
+1. Research and write atleast 10 methods present in 
+File Class. Illustrate with code example.
+
+2. WACP to copy files from one folder to other folder.
+   Schedule this job to be executed at daily some time.
+
+   put the screen shot of task scheduler.
+
+3. WACP to write data into file (and append the data) using
+   Stream writer class.
+
+4. Research and write C# program
+   to read data from file.
+
+5. Modify the quiz application to save the name and score in the flat file.
+   No need to display the score to end user., 
+   
+============================================================
+

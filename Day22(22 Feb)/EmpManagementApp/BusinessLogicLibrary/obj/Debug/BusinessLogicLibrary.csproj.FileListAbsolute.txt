@@ -1,0 +1,9 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\bin\Debug\DataAccessLayer.dll
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\bin\Debug\DataAccessLayer.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

@@ -1,0 +1,13 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\bin\Debug\EmpClientApp.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\bin\Debug\EmpClientApp.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\bin\Debug\EmpClientApp.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\bin\Debug\BusinessLogicLibrary.dll
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\bin\Debug\DataAccessLayer.dll
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\bin\Debug\BusinessLogicLibrary.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\bin\Debug\DataAccessLayer.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\obj\Debug\EmpClientApp.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\obj\Debug\EmpClientApp.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\obj\Debug\EmpClientApp.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\obj\Debug\EmpClientApp.csproj.CopyComplete
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\obj\Debug\EmpClientApp.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day22(22 Feb)\EmpManagementApp\EmpClientApp\obj\Debug\EmpClientApp.pdb
