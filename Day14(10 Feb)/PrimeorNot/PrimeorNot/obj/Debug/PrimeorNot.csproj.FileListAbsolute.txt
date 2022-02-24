@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\PrimeorNot\PrimeorNot\bin\Debug\PrimeorNot.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\PrimeorNot\PrimeorNot\bin\Debug\PrimeorNot.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\PrimeorNot\PrimeorNot\bin\Debug\PrimeorNot.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\PrimeorNot\PrimeorNot\obj\Debug\PrimeorNot.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\PrimeorNot\PrimeorNot\obj\Debug\PrimeorNot.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\PrimeorNot\PrimeorNot\obj\Debug\PrimeorNot.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\PrimeorNot\PrimeorNot\obj\Debug\PrimeorNot.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\PrimeorNot\PrimeorNot\obj\Debug\PrimeorNot.pdb

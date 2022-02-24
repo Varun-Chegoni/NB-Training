@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\1NumGT1000DivBy97\1NumGT1000DivBy97\bin\Debug\1NumGT1000DivBy97.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\1NumGT1000DivBy97\1NumGT1000DivBy97\bin\Debug\1NumGT1000DivBy97.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\1NumGT1000DivBy97\1NumGT1000DivBy97\bin\Debug\1NumGT1000DivBy97.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\1NumGT1000DivBy97\1NumGT1000DivBy97\obj\Debug\1NumGT1000DivBy97.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\1NumGT1000DivBy97\1NumGT1000DivBy97\obj\Debug\1NumGT1000DivBy97.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\1NumGT1000DivBy97\1NumGT1000DivBy97\obj\Debug\1NumGT1000DivBy97.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\1NumGT1000DivBy97\1NumGT1000DivBy97\obj\Debug\1NumGT1000DivBy97.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\1NumGT1000DivBy97\1NumGT1000DivBy97\obj\Debug\1NumGT1000DivBy97.pdb

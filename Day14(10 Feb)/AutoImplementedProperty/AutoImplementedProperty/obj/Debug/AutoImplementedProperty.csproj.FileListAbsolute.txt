@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.pdb

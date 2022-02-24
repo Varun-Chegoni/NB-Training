@@ -1,0 +1,8 @@
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\Print1to30without3X\Print1to30without3X\bin\Debug\Print1to30without3X.exe.config
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\Print1to30without3X\Print1to30without3X\bin\Debug\Print1to30without3X.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\Print1to30without3X\Print1to30without3X\bin\Debug\Print1to30without3X.pdb
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\Print1to30without3X\Print1to30without3X\obj\Debug\Print1to30without3X.csproj.AssemblyReference.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\Print1to30without3X\Print1to30without3X\obj\Debug\Print1to30without3X.csproj.SuggestedBindingRedirects.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\Print1to30without3X\Print1to30without3X\obj\Debug\Print1to30without3X.csproj.CoreCompileInputs.cache
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\Print1to30without3X\Print1to30without3X\obj\Debug\Print1to30without3X.exe
+D:\NB_Training\Training_Assignments\DotNET_Assignments\Day14(10 Feb)\Print1to30without3X\Print1to30without3X\obj\Debug\Print1to30without3X.pdb
